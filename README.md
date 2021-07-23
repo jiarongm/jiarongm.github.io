@@ -18,12 +18,12 @@ int main()
 ![reading](https://ecy1979.files.wordpress.com/2020/04/98b79a4e-fefb-11e8-aebf-99e208d3e521.jpeg)
 
 <html>
-<heede>
+<head>
 <title>110年7月23日</title>  
  <style>
    .red {color:"red"}
   </style>
-</heede>
+</head>
 <body>
  <center><font face="標楷體" color="0000FF" size=+4>前端網頁設計 Day1</font></center>  <br>
   <forn>
